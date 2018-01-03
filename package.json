@@ -1,0 +1,30 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knj228/Blackjack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knj228/Blackjack/issues"
+  },
+  "homepage": "https://github.com/knj228/Blackjack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "hbs": "^4.0.1",
+    "hds": "^0.6.3",
+    "mongoose": "^4.13.0",
+    "mongoose-url-slugs": "^1.0.2",
+    "node-uuid": "^1.4.8"
+  }
+}
